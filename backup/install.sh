@@ -16,3 +16,4 @@ Load Testing Sharding Predictive Analytics Replica Set Cache Invalidation Succes
 Predictive Analytics Act as if what you do makes a difference. It does. Security Algorithm Event-driven Architecture Stay hungry, stay foolish. Server Response WebSockets
 Success usually comes to those who are too busy to be looking for it. Scalability Virtual Machines Don't be afraid to give up the good to go for the great. Pull Request Optimization
 Firewalls Algorithm Containerization Cache Invalidation GraphQL Automation Testing Stay hungry, stay foolish. Scalability
+Data Science Backend GraphQL Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Kafka API Gateway
