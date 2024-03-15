@@ -26,3 +26,4 @@ Predictive Analytics Machine Learning Database Kubernetes Great things never com
 Kubernetes Predictive Analytics OAuth Data Science Microservices Logging Algorithm Quantum Computing Containerization Dream big and dare to fail.
 Predictive Analytics Kafka I find that the harder I work, the more luck I seem to have. Docker Kubernetes Data Science Zero Downtime Deployment Optimization
 To be the best, you must be able to handle the worst. Blockchain Success is not in what you have, but who you are. Pull Request Opportunities don't happen. You create them. Parallel Processing
+DevOps Latency Optimization Cloud Functions DNS Routing Sharding JWT Replica Set Message Queue WebSockets Kubernetes Parallel Processing

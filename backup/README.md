@@ -22,3 +22,4 @@ Act as if what you do makes a difference. It does. Kafka RabbitMQ API Parallel P
 Big Data Security Testing Success is how high you bounce when you hit bottom. Zero Downtime Deployment
 A/B Testing Zero Downtime Deployment GraphQL Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Database Indexing WebSockets Frontend Load Testing Python JavaScript Message Queue
 Monitoring Replica Set Algorithm CI/CD Content Delivery Network
+Pull Request Cloud DNS Routing Act as if what you do makes a difference. It does. JavaScript Code Review Parallel Processing Do what you love and the money will follow. Performance Monitoring Success is not in what you have, but who you are. Microservices Latency Optimization
