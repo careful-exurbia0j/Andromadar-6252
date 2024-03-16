@@ -22,3 +22,4 @@ Kafka Data Science Success usually comes to those who are too busy to be looking
 Cache Invalidation WebSockets Scalability Logging Cloud Sharding Artificial Intelligence RabbitMQ Zero Downtime Deployment Content Delivery Network
 Act as if what you do makes a difference. It does. Optimization Kafka To be the best, you must be able to handle the worst. Neural Networks Security Frontend Deployment Cloud Functions React Serverless JWT Backend
 Simplicity is the ultimate sophistication. Cloud Functions Optimization Containerization Success is how high you bounce when you hit bottom.
+Cloud Functions NLP Simplicity is the ultimate sophistication. Neural Networks Data Pipeline Version Control Pull Request UX Optimization Cache Invalidation Load Balancing
