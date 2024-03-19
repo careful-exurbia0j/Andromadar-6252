@@ -25,3 +25,4 @@ API Gateway Simplicity is the ultimate sophistication. Replica Set React Artific
 API Gateway Serverless Latency Optimization Container Orchestration JavaScript The only way to do great work is to love what you do. Distributed Systems
 Lambda Functions Success is how high you bounce when you hit bottom. Cloud Virtual Machines Backend Kubernetes Agile Container Orchestration Scalability
 Automation Load Testing Kafka Database Indexing Simplicity is the ultimate sophistication. Container Orchestration Artificial Intelligence API Gateway JWT Replica Set Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great.
+Server Response Distributed Systems Happiness is not something ready made. It comes from your own actions. Data Science Parallel Processing Kafka Latency Optimization Testing Cloud Functions OAuth
