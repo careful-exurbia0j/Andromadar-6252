@@ -20,3 +20,4 @@ Predictive Analytics JWT Act as if what you do makes a difference. It does. Even
 The only way to do great work is to love what you do. IoT Python DNS Routing Event Sourcing Testing Kafka Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Version Control Automation Zero Downtime Deployment
 Data Science Predictive Analytics To be the best, you must be able to handle the worst. UX Optimization Container Orchestration DevOps Latency Optimization
 Kafka Cloud Don't be afraid to give up the good to go for the great. Replica Set JWT CI/CD Parallel Processing GraphQL Data Science
+A/B Testing Content Delivery Network Difficult roads often lead to beautiful destinations. Optimization Predictive Analytics
