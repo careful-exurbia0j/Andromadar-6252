@@ -18,3 +18,4 @@ Event Sourcing Testing Quantum Computing Happiness is not something ready made. 
 Testing Cloud Functions Zero Downtime Deployment Security Backend API Load Testing Replica Set
 React Opportunities don't happen. You create them. Algorithm Monitoring OAuth Latency Optimization Virtual Machines Agile Containerization Difficult roads often lead to beautiful destinations. Event Sourcing Firewalls Act as if what you do makes a difference. It does.
 Latency Optimization Happiness is not something ready made. It comes from your own actions. Frontend To be the best, you must be able to handle the worst. If you can dream it, you can do it. Containerization RabbitMQ Opportunities don't happen. You create them.
+Quantum Computing Neural Networks Optimization Work hard in silence, let your success be your noise. Dream big and dare to fail. Deployment React NLP Data Pipeline Distributed Systems Cloud Functions
