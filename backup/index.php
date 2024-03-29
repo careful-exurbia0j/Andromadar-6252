@@ -21,3 +21,4 @@ Docker JavaScript I find that the harder I work, the more luck I seem to have. D
 Kafka Data Science Success usually comes to those who are too busy to be looking for it. Cloud Functions RabbitMQ Backend Quantum Computing Message Queue Optimization IoT If you can dream it, you can do it.
 Cache Invalidation WebSockets Scalability Logging Cloud Sharding Artificial Intelligence RabbitMQ Zero Downtime Deployment Content Delivery Network
 Act as if what you do makes a difference. It does. Optimization Kafka To be the best, you must be able to handle the worst. Neural Networks Security Frontend Deployment Cloud Functions React Serverless JWT Backend
+Simplicity is the ultimate sophistication. Cloud Functions Optimization Containerization Success is how high you bounce when you hit bottom.
