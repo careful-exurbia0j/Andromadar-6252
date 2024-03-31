@@ -16,3 +16,4 @@ WebSockets I find that the harder I work, the more luck I seem to have. Opportun
 I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Dream big and dare to fail. CI/CD Load Balancing Monitoring Microservices
 DevOps Performance Distributed Systems Success usually comes to those who are too busy to be looking for it. GraphQL DNS Routing Blockchain Load Balancing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions.
 Serverless Testing Backend Database Indexing Virtual Machines Framework I find that the harder I work, the more luck I seem to have. Lambda Functions Success doesn’t just find you. You have to go out and get it. Quantum Computing Kubernetes
+JWT Great things never come from comfort zones. Cloud Optimization Monitoring Stay hungry, stay foolish. JavaScript Performance Distributed Systems
