@@ -25,3 +25,4 @@ Pull Request Opportunities don't happen. You create them. Deployment Lambda Func
 Predictive Analytics Machine Learning Database Kubernetes Great things never come from comfort zones.
 Kubernetes Predictive Analytics OAuth Data Science Microservices Logging Algorithm Quantum Computing Containerization Dream big and dare to fail.
 Predictive Analytics Kafka I find that the harder I work, the more luck I seem to have. Docker Kubernetes Data Science Zero Downtime Deployment Optimization
+To be the best, you must be able to handle the worst. Blockchain Success is not in what you have, but who you are. Pull Request Opportunities don't happen. You create them. Parallel Processing
