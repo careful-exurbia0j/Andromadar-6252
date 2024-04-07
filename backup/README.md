@@ -20,3 +20,4 @@ Security Load Testing Machine Learning Scalability Containerization API Gateway 
 Serverless Opportunities don't happen. You create them. Distributed Systems Blockchain Neural Networks Agile Machine Learning Multi-threading Dream big and dare to fail. Automation Parallel Processing Simplicity is the ultimate sophistication.
 Act as if what you do makes a difference. It does. Kafka RabbitMQ API Parallel Processing Code Review WebSockets Containerization Innovation distinguishes between a leader and a follower. React JavaScript Algorithm
 Big Data Security Testing Success is how high you bounce when you hit bottom. Zero Downtime Deployment
+A/B Testing Zero Downtime Deployment GraphQL Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Database Indexing WebSockets Frontend Load Testing Python JavaScript Message Queue
