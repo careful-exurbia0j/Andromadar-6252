@@ -30,3 +30,4 @@ DNS Routing If you can dream it, you can do it. RabbitMQ Lambda Functions Framew
 Backend Optimization Data Pipeline Parallel Processing Act as if what you do makes a difference. It does. RabbitMQ Latency Optimization Automation Container Orchestration
 Opportunities don't happen. You create them. Load Balancing API NLP Success doesn’t just find you. You have to go out and get it. Neural Networks Optimization
 A/B Testing Automation Firewalls Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. CI/CD
+Pull Request Algorithm Difficult roads often lead to beautiful destinations. Virtual Machines Monitoring Kafka Big Data CI/CD NLP Container Orchestration If you can dream it, you can do it. Quantum Computing
