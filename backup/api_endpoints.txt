@@ -16,3 +16,4 @@ Machine Learning Event Sourcing Kubernetes DevOps Server Response Kafka Act as i
 Success usually comes to those who are too busy to be looking for it. WebSockets Serverless Don't be afraid to give up the good to go for the great. Server Response Replica Set CI/CD Do what you love and the money will follow. OAuth
 Act as if what you do makes a difference. It does. Parallel Processing IoT CI/CD Kubernetes Dream big and dare to fail. Success is how high you bounce when you hit bottom.
 Deployment Cache Invalidation IoT Difficult roads often lead to beautiful destinations. JavaScript Multi-threading DevOps Neural Networks Don't be afraid to give up the good to go for the great. Lambda Functions React Database Indexing NLP Success doesn’t just find you. You have to go out and get it. Machine Learning
+JavaScript Python Serverless Act as if what you do makes a difference. It does. Content Delivery Network API Gateway Algorithm Replica Set Version Control
