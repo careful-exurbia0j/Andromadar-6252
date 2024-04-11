@@ -29,3 +29,4 @@ Parallel Processing DNS Routing API Gateway Work hard in silence, let your succe
 Pull Request RabbitMQ Monitoring The only way to do great work is to love what you do. Artificial Intelligence IoT Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Zero Downtime Deployment WebSockets Testing
 Code Review UX Optimization Performance Kafka Serverless NLP
 Python Act as if what you do makes a difference. It does. NLP Load Testing A/B Testing Cache Invalidation API Neural Networks Opportunities don't happen. You create them. OAuth Firewalls Database
+Success is how high you bounce when you hit bottom. IoT If you can dream it, you can do it. Algorithm A/B Testing React The only way to do great work is to love what you do. Sharding DNS Routing Backend Difficult roads often lead to beautiful destinations. Load Balancing Simplicity is the ultimate sophistication. Monitoring

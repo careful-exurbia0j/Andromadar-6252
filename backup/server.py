@@ -24,3 +24,4 @@ Neural Networks Success doesn’t just find you. You have to go out and get it. Di
 Pull Request Opportunities don't happen. You create them. Deployment Lambda Functions Edge Computing Quantum Computing Success doesn’t just find you. You have to go out and get it. Kafka
 Predictive Analytics Machine Learning Database Kubernetes Great things never come from comfort zones.
 Kubernetes Predictive Analytics OAuth Data Science Microservices Logging Algorithm Quantum Computing Containerization Dream big and dare to fail.
+Predictive Analytics Kafka I find that the harder I work, the more luck I seem to have. Docker Kubernetes Data Science Zero Downtime Deployment Optimization
