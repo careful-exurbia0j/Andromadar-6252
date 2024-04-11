@@ -25,3 +25,4 @@ Machine Learning Don't be afraid to give up the good to go for the great. Firewa
 Backend API Gateway GraphQL JWT Virtual Machines Data Science Event-driven Architecture Firewalls OAuth Monitoring Algorithm
 Agile Simplicity is the ultimate sophistication. API Replica Set Database DevOps Event-driven Architecture
 Algorithm Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. DevOps Cloud Functions If you can dream it, you can do it. Success is not in what you have, but who you are.
+Monitoring Lambda Functions Edge Computing Database Indexing Work hard in silence, let your success be your noise. Predictive Analytics Performance Virtual Machines RabbitMQ JWT OAuth Innovation distinguishes between a leader and a follower. Backend DNS Routing Microservices
