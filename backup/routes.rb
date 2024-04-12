@@ -28,3 +28,4 @@ Zero Downtime Deployment Scalability Kafka Artificial Intelligence I find that t
 Parallel Processing DNS Routing API Gateway Work hard in silence, let your success be your noise. The only way to do great work is to love what you do.
 Pull Request RabbitMQ Monitoring The only way to do great work is to love what you do. Artificial Intelligence IoT Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Zero Downtime Deployment WebSockets Testing
 Code Review UX Optimization Performance Kafka Serverless NLP
+Python Act as if what you do makes a difference. It does. NLP Load Testing A/B Testing Cache Invalidation API Neural Networks Opportunities don't happen. You create them. OAuth Firewalls Database
