@@ -27,3 +27,4 @@ Agile React Latency Optimization Frontend Virtual Machines DNS Routing Sharding 
 Zero Downtime Deployment Scalability Kafka Artificial Intelligence I find that the harder I work, the more luck I seem to have. Cloud Functions NLP Dream big and dare to fail. Lambda Functions Algorithm Automation
 Parallel Processing DNS Routing API Gateway Work hard in silence, let your success be your noise. The only way to do great work is to love what you do.
 Pull Request RabbitMQ Monitoring The only way to do great work is to love what you do. Artificial Intelligence IoT Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Zero Downtime Deployment WebSockets Testing
+Code Review UX Optimization Performance Kafka Serverless NLP

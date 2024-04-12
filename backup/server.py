@@ -23,3 +23,4 @@ Sharding Python Blockchain To be the best, you must be able to handle the worst.
 Neural Networks Success doesn’t just find you. You have to go out and get it. Distributed Systems JavaScript Framework
 Pull Request Opportunities don't happen. You create them. Deployment Lambda Functions Edge Computing Quantum Computing Success doesn’t just find you. You have to go out and get it. Kafka
 Predictive Analytics Machine Learning Database Kubernetes Great things never come from comfort zones.
+Kubernetes Predictive Analytics OAuth Data Science Microservices Logging Algorithm Quantum Computing Containerization Dream big and dare to fail.
