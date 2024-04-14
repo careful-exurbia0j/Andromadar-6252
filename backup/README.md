@@ -18,3 +18,4 @@ The only way to do great work is to love what you do. Do what you love and the m
 Frontend Stay hungry, stay foolish. WebSockets Docker Container Orchestration Python Algorithm Automation Success doesn’t just find you. You have to go out and get it. DevOps Optimization
 Security Load Testing Machine Learning Scalability Containerization API Gateway Database Indexing Firewalls Data Pipeline
 Serverless Opportunities don't happen. You create them. Distributed Systems Blockchain Neural Networks Agile Machine Learning Multi-threading Dream big and dare to fail. Automation Parallel Processing Simplicity is the ultimate sophistication.
+Act as if what you do makes a difference. It does. Kafka RabbitMQ API Parallel Processing Code Review WebSockets Containerization Innovation distinguishes between a leader and a follower. React JavaScript Algorithm
