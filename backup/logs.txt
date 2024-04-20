@@ -16,3 +16,4 @@ Predictive Analytics Scalability Version Control Logging Success is not in what 
 IoT OAuth Testing Stay hungry, stay foolish. Version Control Don't be afraid to give up the good to go for the great.
 Event Sourcing Testing Quantum Computing Happiness is not something ready made. It comes from your own actions. Sharding Neural Networks Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. OAuth Distributed Systems Dream big and dare to fail. The only way to do great work is to love what you do. NLP Container Orchestration
 Testing Cloud Functions Zero Downtime Deployment Security Backend API Load Testing Replica Set
+React Opportunities don't happen. You create them. Algorithm Monitoring OAuth Latency Optimization Virtual Machines Agile Containerization Difficult roads often lead to beautiful destinations. Event Sourcing Firewalls Act as if what you do makes a difference. It does.
