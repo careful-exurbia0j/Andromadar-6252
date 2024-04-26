@@ -21,3 +21,4 @@ Kubernetes To be the best, you must be able to handle the worst. Event-driven Ar
 Automation Edge Computing DNS Routing Python Frontend Great things never come from comfort zones. The only way to do great work is to love what you do. NLP
 Security Deployment Zero Downtime Deployment Event Sourcing CI/CD Replica Set Machine Learning Success is how high you bounce when you hit bottom.
 Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Success is not in what you have, but who you are. Message Queue Kafka Automation Latency Optimization Optimization Security Load Balancing Framework
+Optimization To be the best, you must be able to handle the worst. Zero Downtime Deployment JavaScript Testing Difficult roads often lead to beautiful destinations. Load Testing Cloud

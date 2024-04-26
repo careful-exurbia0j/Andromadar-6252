@@ -22,3 +22,4 @@ Big Data Kubernetes Data Science Success doesn’t just find you. You have to go o
 Sharding Python Blockchain To be the best, you must be able to handle the worst. Backend Version Control Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Containerization Replica Set Monitoring The only way to do great work is to love what you do. Work hard in silence, let your success be your noise.
 Neural Networks Success doesn’t just find you. You have to go out and get it. Distributed Systems JavaScript Framework
 Pull Request Opportunities don't happen. You create them. Deployment Lambda Functions Edge Computing Quantum Computing Success doesn’t just find you. You have to go out and get it. Kafka
+Predictive Analytics Machine Learning Database Kubernetes Great things never come from comfort zones.
