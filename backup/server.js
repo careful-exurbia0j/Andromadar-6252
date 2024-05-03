@@ -24,3 +24,4 @@ Serverless Agile Great things never come from comfort zones. API Algorithm Don't
 CI/CD Success usually comes to those who are too busy to be looking for it. Serverless Security Message Queue
 Data Science API Parallel Processing Load Testing Lambda Functions CI/CD If you can dream it, you can do it. Work hard in silence, let your success be your noise. UX Optimization Cloud
 React Act as if what you do makes a difference. It does. Big Data JavaScript IoT Dream big and dare to fail.
+Backend Algorithm Monitoring Success doesn’t just find you. You have to go out and get it. Message Queue
