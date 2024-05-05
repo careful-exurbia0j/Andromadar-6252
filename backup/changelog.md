@@ -22,3 +22,4 @@ Work hard in silence, let your success be your noise. Virtual Machines Message Q
 Happiness is not something ready made. It comes from your own actions. JavaScript Performance Work hard in silence, let your success be your noise. Serverless Pull Request UX Optimization Great things never come from comfort zones. Kubernetes Message Queue Replica Set
 Docker DNS Routing Serverless Deployment OAuth Machine Learning
 Machine Learning Don't be afraid to give up the good to go for the great. Firewalls Version Control Quantum Computing Cloud Functions Optimization NLP Scalability Edge Computing
+Backend API Gateway GraphQL JWT Virtual Machines Data Science Event-driven Architecture Firewalls OAuth Monitoring Algorithm
