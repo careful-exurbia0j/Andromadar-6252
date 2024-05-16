@@ -21,3 +21,4 @@ Work hard in silence, let your success be your noise. Replica Set Big Data Edge 
 Containerization GraphQL Latency Optimization Cloud Frontend Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Predictive Analytics Database Firewalls Big Data
 Kafka Replica Set Scalability Load Testing Security Data Science Content Delivery Network Message Queue WebSockets
 Cloud Functions Predictive Analytics Replica Set NLP Algorithm Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Kafka Machine Learning
+To be the best, you must be able to handle the worst. OAuth Serverless Content Delivery Network Parallel Processing Success doesn’t just find you. You have to go out and get it. Containerization CI/CD Frontend UX Optimization Big Data Virtual Machines A/B Testing
