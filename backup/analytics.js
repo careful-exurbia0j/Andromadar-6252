@@ -11,3 +11,4 @@ Server Response Framework Backend Event Sourcing Predictive Analytics Event-driv
 Sharding Event-driven Architecture React Serverless Stay hungry, stay foolish. Message Queue RabbitMQ Testing Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Security
 Version Control Machine Learning Container Orchestration The only way to do great work is to love what you do. Stay hungry, stay foolish. WebSockets RabbitMQ Load Testing Performance Parallel Processing
 Firewalls API CI/CD Sharding Microservices Multi-threading Message Queue
+Machine Learning Frontend Event Sourcing Multi-threading DevOps Security Kafka Blockchain Innovation distinguishes between a leader and a follower. React
