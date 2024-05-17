@@ -16,3 +16,4 @@ The only way to do great work is to love what you do. Dream big and dare to fail
 I find that the harder I work, the more luck I seem to have. Agile Frontend Containerization Testing If you can dream it, you can do it. Firewalls React
 Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Dream big and dare to fail. The only way to do great work is to love what you do. Multi-threading
 Performance Neural Networks Virtual Machines Automation Stay hungry, stay foolish. Load Testing Opportunities don't happen. You create them. Multi-threading
+Predictive Analytics JWT Act as if what you do makes a difference. It does. Event-driven Architecture API Neural Networks Success usually comes to those who are too busy to be looking for it.

@@ -20,3 +20,4 @@ RabbitMQ WebSockets JavaScript Success usually comes to those who are too busy t
 RabbitMQ Docker Distributed Systems Kafka A/B Testing Success usually comes to those who are too busy to be looking for it. Optimization Automation Deployment Algorithm Backend Message Queue Quantum Computing Code Review Cloud
 Parallel Processing GraphQL Multi-threading Content Delivery Network Stay hungry, stay foolish. Event Sourcing Kubernetes Virtual Machines
 Quantum Computing Kubernetes WebSockets Work hard in silence, let your success be your noise. JavaScript Microservices Stay hungry, stay foolish. Firewalls
+Latency Optimization Distributed Systems Predictive Analytics Frontend Machine Learning Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does.

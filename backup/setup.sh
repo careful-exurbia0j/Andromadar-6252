@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Testing JavaScript Cloud Funct
 Stay hungry, stay foolish. Dream big and dare to fail. Great things never come from comfort zones. API Gateway Multi-threading Kafka
 Firewalls Performance Blockchain Database Indexing Message Queue Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have.
 Zero Downtime Deployment Serverless GraphQL Act as if what you do makes a difference. It does. Scalability Algorithm Big Data Python Framework Virtual Machines Great things never come from comfort zones.
+Difficult roads often lead to beautiful destinations. GraphQL Blockchain Content Delivery Network Automation Success is how high you bounce when you hit bottom. WebSockets Frontend Big Data Kubernetes Logging Zero Downtime Deployment DevOps
