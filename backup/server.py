@@ -20,3 +20,4 @@ JWT Innovation distinguishes between a leader and a follower. OAuth WebSockets T
 Backend Cache Invalidation Load Balancing Agile Replica Set Logging Latency Optimization Distributed Systems Virtual Machines Python IoT Blockchain
 Big Data Kubernetes Data Science Success doesn’t just find you. You have to go out and get it. Monitoring
 Sharding Python Blockchain To be the best, you must be able to handle the worst. Backend Version Control Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Containerization Replica Set Monitoring The only way to do great work is to love what you do. Work hard in silence, let your success be your noise.
+Neural Networks Success doesn’t just find you. You have to go out and get it. Distributed Systems JavaScript Framework
