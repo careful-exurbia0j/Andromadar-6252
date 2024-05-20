@@ -16,3 +16,4 @@ Container Orchestration Optimization Don't be afraid to give up the good to go f
 Docker UX Optimization Content Delivery Network OAuth NLP
 The only way to do great work is to love what you do. Do what you love and the money will follow. Act as if what you do makes a difference. It does. Event Sourcing Opportunities don't happen. You create them. Security Backend Latency Optimization Innovation distinguishes between a leader and a follower. CI/CD If you can dream it, you can do it. Firewalls DevOps Microservices Message Queue
 Frontend Stay hungry, stay foolish. WebSockets Docker Container Orchestration Python Algorithm Automation Success doesn’t just find you. You have to go out and get it. DevOps Optimization
+Security Load Testing Machine Learning Scalability Containerization API Gateway Database Indexing Firewalls Data Pipeline
