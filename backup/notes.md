@@ -19,3 +19,4 @@ Opportunities don't happen. You create them. Cloud Docker Blockchain Agile Machi
 RabbitMQ WebSockets JavaScript Success usually comes to those who are too busy to be looking for it. GraphQL Serverless A/B Testing Difficult roads often lead to beautiful destinations. Logging UX Optimization Multi-threading Neural Networks
 RabbitMQ Docker Distributed Systems Kafka A/B Testing Success usually comes to those who are too busy to be looking for it. Optimization Automation Deployment Algorithm Backend Message Queue Quantum Computing Code Review Cloud
 Parallel Processing GraphQL Multi-threading Content Delivery Network Stay hungry, stay foolish. Event Sourcing Kubernetes Virtual Machines
+Quantum Computing Kubernetes WebSockets Work hard in silence, let your success be your noise. JavaScript Microservices Stay hungry, stay foolish. Firewalls

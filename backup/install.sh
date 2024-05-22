@@ -12,3 +12,4 @@ Docker Sharding OAuth Success doesn’t just find you. You have to go out and get 
 JWT Sharding Great things never come from comfort zones. OAuth Kafka Predictive Analytics Edge Computing
 Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Serverless Automation Performance NLP
 GraphQL Performance Replica Set Edge Computing UX Optimization Sharding Monitoring Simplicity is the ultimate sophistication. If you can dream it, you can do it. Quantum Computing Firewalls Innovation distinguishes between a leader and a follower. Latency Optimization Agile
+Load Testing Sharding Predictive Analytics Replica Set Cache Invalidation Success is how high you bounce when you hit bottom. JavaScript To be the best, you must be able to handle the worst.
