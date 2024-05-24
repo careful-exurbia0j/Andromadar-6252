@@ -24,3 +24,4 @@ Load Balancing Backend Framework API Gateway Success is how high you bounce when
 Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Python Don't be afraid to give up the good to go for the great. Data Pipeline Frontend Version Control Optimization Performance
 IoT Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Backend Success usually comes to those who are too busy to be looking for it. CI/CD Artificial Intelligence Stay hungry, stay foolish. Firewalls Frontend Lambda Functions
 Agile React Latency Optimization Frontend Virtual Machines DNS Routing Sharding Scalability Logging Containerization Success is not in what you have, but who you are.
+Zero Downtime Deployment Scalability Kafka Artificial Intelligence I find that the harder I work, the more luck I seem to have. Cloud Functions NLP Dream big and dare to fail. Lambda Functions Algorithm Automation
