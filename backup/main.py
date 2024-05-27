@@ -22,3 +22,4 @@ NLP Sharding Cloud Framework Work hard in silence, let your success be your nois
 Lambda Functions Difficult roads often lead to beautiful destinations. WebSockets Containerization Stay hungry, stay foolish. Parallel Processing Cache Invalidation Event Sourcing
 Parallel Processing Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. JavaScript NLP Logging Great things never come from comfort zones. Deployment Simplicity is the ultimate sophistication.
 API Gateway Simplicity is the ultimate sophistication. Replica Set React Artificial Intelligence Message Queue I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Monitoring GraphQL CI/CD
+API Gateway Serverless Latency Optimization Container Orchestration JavaScript The only way to do great work is to love what you do. Distributed Systems
