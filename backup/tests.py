@@ -14,3 +14,4 @@ Security Don't be afraid to give up the good to go for the great. If you can dre
 Microservices Message Queue Virtual Machines Do what you love and the money will follow. Cloud Functions Cache Invalidation
 WebSockets I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Framework Innovation distinguishes between a leader and a follower. JavaScript Server Response UX Optimization React
 I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Dream big and dare to fail. CI/CD Load Balancing Monitoring Microservices
+DevOps Performance Distributed Systems Success usually comes to those who are too busy to be looking for it. GraphQL DNS Routing Blockchain Load Balancing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions.

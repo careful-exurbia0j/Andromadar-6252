@@ -25,3 +25,4 @@ Opportunities don't happen. You create them. Containerization DevOps Neural Netw
 Success doesn’t just find you. You have to go out and get it. Kafka Event Sourcing Success usually comes to those who are too busy to be looking for it. Blockchain Automation Database
 Database Indexing Server Response Testing I find that the harder I work, the more luck I seem to have. Version Control Stay hungry, stay foolish. Artificial Intelligence API Gateway OAuth Load Balancing Serverless Success doesn’t just find you. You have to go out and get it. Code Review
 Algorithm Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Database Innovation distinguishes between a leader and a follower. Latency Optimization Zero Downtime Deployment RabbitMQ DNS Routing Replica Set
+Content Delivery Network React Sharding Quantum Computing Innovation distinguishes between a leader and a follower. Version Control Data Science Logging Backend
