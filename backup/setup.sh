@@ -16,3 +16,4 @@ Deployment JavaScript Multi-threading A/B Testing Automation Backend GraphQL Loa
 Containerization Pull Request JWT Microservices Do what you love and the money will follow. Frontend
 Dream big and dare to fail. If you can dream it, you can do it. UX Optimization Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Code Review
 Success is not in what you have, but who you are. Testing JavaScript Cloud Functions Parallel Processing Scalability React RabbitMQ Code Review Latency Optimization Container Orchestration Great things never come from comfort zones. Act as if what you do makes a difference. It does.
+Stay hungry, stay foolish. Dream big and dare to fail. Great things never come from comfort zones. API Gateway Multi-threading Kafka
