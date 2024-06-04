@@ -17,3 +17,4 @@ Neural Networks Latency Optimization DevOps A/B Testing Distributed Systems Moni
 UX Optimization Docker Great things never come from comfort zones. Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Python Neural Networks Message Queue Multi-threading Lambda Functions Parallel Processing Server Response IoT
 Opportunities don't happen. You create them. Cloud Docker Blockchain Agile Machine Learning Containerization
 RabbitMQ WebSockets JavaScript Success usually comes to those who are too busy to be looking for it. GraphQL Serverless A/B Testing Difficult roads often lead to beautiful destinations. Logging UX Optimization Multi-threading Neural Networks
+RabbitMQ Docker Distributed Systems Kafka A/B Testing Success usually comes to those who are too busy to be looking for it. Optimization Automation Deployment Algorithm Backend Message Queue Quantum Computing Code Review Cloud
