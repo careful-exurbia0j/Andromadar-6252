@@ -22,3 +22,4 @@ Work hard in silence, let your success be your noise. React Framework Virtual Ma
 Difficult roads often lead to beautiful destinations. Automation Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Message Queue Pull Request Security GraphQL Frontend DevOps OAuth Containerization
 Serverless Agile Great things never come from comfort zones. API Algorithm Don't be afraid to give up the good to go for the great. Load Testing Success is how high you bounce when you hit bottom. Kafka Backend Sharding Quantum Computing Simplicity is the ultimate sophistication. Predictive Analytics
 CI/CD Success usually comes to those who are too busy to be looking for it. Serverless Security Message Queue
+Data Science API Parallel Processing Load Testing Lambda Functions CI/CD If you can dream it, you can do it. Work hard in silence, let your success be your noise. UX Optimization Cloud

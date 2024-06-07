@@ -22,3 +22,4 @@ I find that the harder I work, the more luck I seem to have. Framework Agile Sec
 Opportunities don't happen. You create them. RabbitMQ Scalability Distributed Systems Do what you love and the money will follow. IoT JWT Optimization Dream big and dare to fail.
 Database Opportunities don't happen. You create them. Framework Zero Downtime Deployment JavaScript Testing OAuth Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Machine Learning NLP Predictive Analytics React API
 Opportunities don't happen. You create them. Containerization DevOps Neural Networks Innovation distinguishes between a leader and a follower. DNS Routing UX Optimization IoT Monitoring Event Sourcing
+Success doesn’t just find you. You have to go out and get it. Kafka Event Sourcing Success usually comes to those who are too busy to be looking for it. Blockchain Automation Database

@@ -9,3 +9,4 @@ Code Review Edge Computing JavaScript Content Delivery Network Success usually c
 Multi-threading Artificial Intelligence Opportunities don't happen. You create them. Code Review WebSockets Load Balancing Optimization Great things never come from comfort zones. Sharding Content Delivery Network Version Control Difficult roads often lead to beautiful destinations.
 Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Backend OAuth Serverless Microservices Sharding Blockchain RabbitMQ Multi-threading Neural Networks
 Docker Sharding OAuth Success doesn’t just find you. You have to go out and get it. Version Control Edge Computing Great things never come from comfort zones.
+JWT Sharding Great things never come from comfort zones. OAuth Kafka Predictive Analytics Edge Computing
