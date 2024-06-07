@@ -20,3 +20,4 @@ Cache Invalidation Act as if what you do makes a difference. It does. Success is
 Monitoring Difficult roads often lead to beautiful destinations. Frontend Replica Set Pull Request Lambda Functions
 Work hard in silence, let your success be your noise. Virtual Machines Message Queue I find that the harder I work, the more luck I seem to have. Containerization Distributed Systems Great things never come from comfort zones.
 Happiness is not something ready made. It comes from your own actions. JavaScript Performance Work hard in silence, let your success be your noise. Serverless Pull Request UX Optimization Great things never come from comfort zones. Kubernetes Message Queue Replica Set
+Docker DNS Routing Serverless Deployment OAuth Machine Learning
