@@ -21,3 +21,4 @@ NLP Containerization DevOps Optimization Happiness is not something ready made. 
 NLP Sharding Cloud Framework Work hard in silence, let your success be your noise. Stay hungry, stay foolish. GraphQL Backend Big Data Load Testing UX Optimization
 Lambda Functions Difficult roads often lead to beautiful destinations. WebSockets Containerization Stay hungry, stay foolish. Parallel Processing Cache Invalidation Event Sourcing
 Parallel Processing Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. JavaScript NLP Logging Great things never come from comfort zones. Deployment Simplicity is the ultimate sophistication.
+API Gateway Simplicity is the ultimate sophistication. Replica Set React Artificial Intelligence Message Queue I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Monitoring GraphQL CI/CD
