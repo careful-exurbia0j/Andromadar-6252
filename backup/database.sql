@@ -14,3 +14,4 @@ API Python Machine Learning JWT Multi-threading Success is not in what you have,
 Event Sourcing Blockchain Cloud Functions Scalability Success is how high you bounce when you hit bottom.
 Stay hungry, stay foolish. JavaScript If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Machine Learning Scalability Optimization Parallel Processing Event Sourcing Cloud Functions Docker Replica Set
 Sharding Firewalls API Gateway Lambda Functions OAuth DevOps Latency Optimization Monitoring Success is how high you bounce when you hit bottom. Event Sourcing Deployment Blockchain
+Great things never come from comfort zones. Data Pipeline Blockchain Virtual Machines If you can dream it, you can do it. Scalability Database Kubernetes API Gateway Testing Latency Optimization RabbitMQ Sharding Happiness is not something ready made. It comes from your own actions.

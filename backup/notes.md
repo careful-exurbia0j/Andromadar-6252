@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. Containerization Agile Cac
 Serverless Testing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Predictive Analytics Content Delivery Network
 Distributed Systems Big Data Content Delivery Network Deployment Frontend Automation Latency Optimization Success doesn’t just find you. You have to go out and get it. Containerization Event Sourcing Great things never come from comfort zones. API If you can dream it, you can do it.
 Neural Networks Latency Optimization DevOps A/B Testing Distributed Systems Monitoring Version Control Quantum Computing Event-driven Architecture
+UX Optimization Docker Great things never come from comfort zones. Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Python Neural Networks Message Queue Multi-threading Lambda Functions Parallel Processing Server Response IoT

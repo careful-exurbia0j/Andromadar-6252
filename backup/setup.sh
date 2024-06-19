@@ -13,3 +13,4 @@ Serverless Version Control JavaScript The only way to do great work is to love w
 Load Balancing Code Review WebSockets Security Database Indexing Cloud Latency Optimization Do what you love and the money will follow.
 API Gateway Sharding GraphQL Logging Big Data Dream big and dare to fail. Content Delivery Network JavaScript Success usually comes to those who are too busy to be looking for it. CI/CD
 Deployment JavaScript Multi-threading A/B Testing Automation Backend GraphQL Load Balancing Pull Request
+Containerization Pull Request JWT Microservices Do what you love and the money will follow. Frontend
