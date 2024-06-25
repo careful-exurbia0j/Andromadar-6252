@@ -13,3 +13,4 @@ The only way to do great work is to love what you do. Artificial Intelligence Co
 API Python Machine Learning JWT Multi-threading Success is not in what you have, but who you are. Message Queue Performance Database Indexing GraphQL Load Balancing
 Event Sourcing Blockchain Cloud Functions Scalability Success is how high you bounce when you hit bottom.
 Stay hungry, stay foolish. JavaScript If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Machine Learning Scalability Optimization Parallel Processing Event Sourcing Cloud Functions Docker Replica Set
+Sharding Firewalls API Gateway Lambda Functions OAuth DevOps Latency Optimization Monitoring Success is how high you bounce when you hit bottom. Event Sourcing Deployment Blockchain
