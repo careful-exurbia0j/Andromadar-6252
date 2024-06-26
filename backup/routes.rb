@@ -19,3 +19,4 @@ UX Optimization Success doesn’t just find you. You have to go out and get it. Bi
 Blockchain UX Optimization Sharding Message Queue Agile Data Science Latency Optimization
 Data Science Opportunities don't happen. You create them. Frontend The only way to do great work is to love what you do. Do what you love and the money will follow. GraphQL Database
 Replica Set Frontend Success is how high you bounce when you hit bottom. Docker I find that the harder I work, the more luck I seem to have. Kubernetes Cloud Functions Pull Request Blockchain Latency Optimization Python OAuth Success usually comes to those who are too busy to be looking for it. Multi-threading Algorithm
+Monitoring Automation NLP GraphQL Load Testing Difficult roads often lead to beautiful destinations. A/B Testing Firewalls Parallel Processing Data Science
