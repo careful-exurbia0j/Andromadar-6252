@@ -16,3 +16,4 @@ Performance Load Testing JWT NLP Testing Data Science Serverless
 I find that the harder I work, the more luck I seem to have. Multi-threading Message Queue Neural Networks Distributed Systems JWT Work hard in silence, let your success be your noise. Containerization Frontend Simplicity is the ultimate sophistication. If you can dream it, you can do it.
 Happiness is not something ready made. It comes from your own actions. Firewalls Testing API Gateway Quantum Computing Success usually comes to those who are too busy to be looking for it. A/B Testing Opportunities don't happen. You create them. Logging Zero Downtime Deployment
 Serverless Edge Computing Kafka Data Pipeline A/B Testing Latency Optimization Stay hungry, stay foolish. Kubernetes
+JWT Innovation distinguishes between a leader and a follower. OAuth WebSockets To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. GraphQL Agile
