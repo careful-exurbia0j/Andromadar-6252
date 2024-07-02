@@ -13,3 +13,4 @@ Scalability Testing Quantum Computing Dream big and dare to fail. Microservices 
 Database I find that the harder I work, the more luck I seem to have. RabbitMQ Load Testing Quantum Computing
 A/B Testing Content Delivery Network WebSockets RabbitMQ Optimization JavaScript API Gateway Work hard in silence, let your success be your noise. OAuth Code Review React
 Predictive Analytics Scalability Version Control Logging Success is not in what you have, but who you are. Frontend Parallel Processing Optimization Container Orchestration Work hard in silence, let your success be your noise. Microservices
+IoT OAuth Testing Stay hungry, stay foolish. Version Control Don't be afraid to give up the good to go for the great.
