@@ -19,3 +19,4 @@ Kubernetes Code Review Replica Set Automation Data Science Containerization Happ
 Quantum Computing Kafka Database Indexing Edge Computing JWT Deployment GraphQL Stay hungry, stay foolish. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Parallel Processing
 NLP Containerization DevOps Optimization Happiness is not something ready made. It comes from your own actions. Replica Set Server Response Machine Learning Logging
 NLP Sharding Cloud Framework Work hard in silence, let your success be your noise. Stay hungry, stay foolish. GraphQL Backend Big Data Load Testing UX Optimization
+Lambda Functions Difficult roads often lead to beautiful destinations. WebSockets Containerization Stay hungry, stay foolish. Parallel Processing Cache Invalidation Event Sourcing
