@@ -17,3 +17,4 @@ Multi-threading Difficult roads often lead to beautiful destinations. Load Testi
 Distributed Systems Optimization CI/CD Happiness is not something ready made. It comes from your own actions. Algorithm Cloud Functions Logging
 UX Optimization Success doesn’t just find you. You have to go out and get it. Big Data Load Balancing Database Indexing Simplicity is the ultimate sophistication. A/B Testing Cloud Functions Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Replica Set Testing Database Virtual Machines
 Blockchain UX Optimization Sharding Message Queue Agile Data Science Latency Optimization
+Data Science Opportunities don't happen. You create them. Frontend The only way to do great work is to love what you do. Do what you love and the money will follow. GraphQL Database
