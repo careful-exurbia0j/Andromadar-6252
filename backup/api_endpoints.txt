@@ -11,3 +11,4 @@ Do what you love and the money will follow. Quantum Computing Microservices Algo
 Sharding Distributed Systems Cloud The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Docker Cache Invalidation Kubernetes
 Docker GraphQL Database Frontend Version Control Zero Downtime Deployment
 Edge Computing Big Data DNS Routing Predictive Analytics Automation IoT Great things never come from comfort zones. JavaScript Data Science
+Parallel Processing The only way to do great work is to love what you do. Pull Request Machine Learning Agile
