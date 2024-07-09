@@ -14,3 +14,4 @@ Success is how high you bounce when you hit bottom. API Monitoring Lambda Functi
 Dream big and dare to fail. Security API Version Control Predictive Analytics Containerization
 Performance Load Testing JWT NLP Testing Data Science Serverless
 I find that the harder I work, the more luck I seem to have. Multi-threading Message Queue Neural Networks Distributed Systems JWT Work hard in silence, let your success be your noise. Containerization Frontend Simplicity is the ultimate sophistication. If you can dream it, you can do it.
+Happiness is not something ready made. It comes from your own actions. Firewalls Testing API Gateway Quantum Computing Success usually comes to those who are too busy to be looking for it. A/B Testing Opportunities don't happen. You create them. Logging Zero Downtime Deployment
