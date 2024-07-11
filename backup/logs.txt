@@ -11,3 +11,4 @@ Agile IoT Success usually comes to those who are too busy to be looking for it. 
 Predictive Analytics Optimization Neural Networks Version Control Artificial Intelligence JavaScript Distributed Systems Frontend Container Orchestration Happiness is not something ready made. It comes from your own actions. JWT CI/CD
 Scalability Testing Quantum Computing Dream big and dare to fail. Microservices Python Machine Learning Multi-threading Performance Optimization To be the best, you must be able to handle the worst.
 Database I find that the harder I work, the more luck I seem to have. RabbitMQ Load Testing Quantum Computing
+A/B Testing Content Delivery Network WebSockets RabbitMQ Optimization JavaScript API Gateway Work hard in silence, let your success be your noise. OAuth Code Review React
