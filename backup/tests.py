@@ -10,3 +10,4 @@ Microservices Framework NLP The only way to do great work is to love what you do
 Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. The only way to do great work is to love what you do. Lambda Functions Frontend CI/CD Blockchain
 Event Sourcing Replica Set Success is how high you bounce when you hit bottom. RabbitMQ Data Pipeline
 Testing DNS Routing Work hard in silence, let your success be your noise. Database Cloud UX Optimization Backend Latency Optimization
+Security Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. RabbitMQ Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Performance API Gateway JWT
