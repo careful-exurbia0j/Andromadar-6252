@@ -12,3 +12,4 @@ If you can dream it, you can do it. Parallel Processing GraphQL Code Review Fram
 The only way to do great work is to love what you do. Artificial Intelligence Containerization Predictive Analytics Dream big and dare to fail. IoT Act as if what you do makes a difference. It does. Pull Request OAuth Replica Set Parallel Processing I find that the harder I work, the more luck I seem to have.
 API Python Machine Learning JWT Multi-threading Success is not in what you have, but who you are. Message Queue Performance Database Indexing GraphQL Load Balancing
 Event Sourcing Blockchain Cloud Functions Scalability Success is how high you bounce when you hit bottom.
+Stay hungry, stay foolish. JavaScript If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Machine Learning Scalability Optimization Parallel Processing Event Sourcing Cloud Functions Docker Replica Set
