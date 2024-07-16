@@ -17,3 +17,4 @@ Data Pipeline Success doesn’t just find you. You have to go out and get it. Late
 Great things never come from comfort zones. IoT Cache Invalidation Testing Serverless GraphQL Edge Computing
 Kubernetes Code Review Replica Set Automation Data Science Containerization Happiness is not something ready made. It comes from your own actions. Distributed Systems
 Quantum Computing Kafka Database Indexing Edge Computing JWT Deployment GraphQL Stay hungry, stay foolish. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Parallel Processing
+NLP Containerization DevOps Optimization Happiness is not something ready made. It comes from your own actions. Replica Set Server Response Machine Learning Logging
