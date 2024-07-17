@@ -17,3 +17,4 @@ API UX Optimization Docker Load Balancing Data Science Cloud Functions Zero Down
 Kubernetes Don't be afraid to give up the good to go for the great. Server Response Success doesn’t just find you. You have to go out and get it. JavaScript Serverless The only way to do great work is to love what you do. Container Orchestration Load Testing Database Indexing GraphQL IoT
 Work hard in silence, let your success be your noise. IoT Agile Success is how high you bounce when you hit bottom. JWT Zero Downtime Deployment Blockchain
 Cache Invalidation Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Docker Database Algorithm NLP RabbitMQ Backend To be the best, you must be able to handle the worst. DevOps
+Monitoring Difficult roads often lead to beautiful destinations. Frontend Replica Set Pull Request Lambda Functions
