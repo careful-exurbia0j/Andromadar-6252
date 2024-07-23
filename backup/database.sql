@@ -11,3 +11,4 @@ Deployment Neural Networks Happiness is not something ready made. It comes from 
 If you can dream it, you can do it. Parallel Processing GraphQL Code Review Framework Database Indexing Virtual Machines Stay hungry, stay foolish. Sharding Kafka Act as if what you do makes a difference. It does.
 The only way to do great work is to love what you do. Artificial Intelligence Containerization Predictive Analytics Dream big and dare to fail. IoT Act as if what you do makes a difference. It does. Pull Request OAuth Replica Set Parallel Processing I find that the harder I work, the more luck I seem to have.
 API Python Machine Learning JWT Multi-threading Success is not in what you have, but who you are. Message Queue Performance Database Indexing GraphQL Load Balancing
+Event Sourcing Blockchain Cloud Functions Scalability Success is how high you bounce when you hit bottom.
