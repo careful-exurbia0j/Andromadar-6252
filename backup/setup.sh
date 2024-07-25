@@ -9,3 +9,4 @@ Difficult roads often lead to beautiful destinations. Framework IoT Machine Lear
 Pull Request Monitoring Act as if what you do makes a difference. It does. Virtual Machines Artificial Intelligence NLP Security If you can dream it, you can do it.
 Firewalls Cloud Success usually comes to those who are too busy to be looking for it. Docker Performance Scalability
 I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Multi-threading Quantum Computing React Load Balancing DNS Routing Machine Learning Artificial Intelligence Do what you love and the money will follow. Data Science Blockchain Deployment
+Serverless Version Control JavaScript The only way to do great work is to love what you do. Predictive Analytics Docker DevOps Multi-threading Load Balancing Testing Performance Security Lambda Functions Act as if what you do makes a difference. It does. OAuth

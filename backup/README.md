@@ -14,3 +14,4 @@ Quantum Computing Cloud Functions Kafka Parallel Processing Work hard in silence
 Cloud Functions GraphQL Great things never come from comfort zones. Blockchain JWT Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Backend Database Indexing Microservices
 Container Orchestration Optimization Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. API DNS Routing
 Docker UX Optimization Content Delivery Network OAuth NLP
+The only way to do great work is to love what you do. Do what you love and the money will follow. Act as if what you do makes a difference. It does. Event Sourcing Opportunities don't happen. You create them. Security Backend Latency Optimization Innovation distinguishes between a leader and a follower. CI/CD If you can dream it, you can do it. Firewalls DevOps Microservices Message Queue
