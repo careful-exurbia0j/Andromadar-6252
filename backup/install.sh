@@ -7,3 +7,4 @@ If you can dream it, you can do it. IoT Load Testing Database Indexing Don't be 
 Lambda Functions API Serverless IoT Success usually comes to those who are too busy to be looking for it. Frontend Automation Security Machine Learning
 Code Review Edge Computing JavaScript Content Delivery Network Success usually comes to those who are too busy to be looking for it. React Success is not in what you have, but who you are. OAuth Event-driven Architecture Automation CI/CD
 Multi-threading Artificial Intelligence Opportunities don't happen. You create them. Code Review WebSockets Load Balancing Optimization Great things never come from comfort zones. Sharding Content Delivery Network Version Control Difficult roads often lead to beautiful destinations.
+Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Backend OAuth Serverless Microservices Sharding Blockchain RabbitMQ Multi-threading Neural Networks
