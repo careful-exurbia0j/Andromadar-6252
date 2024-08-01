@@ -16,3 +16,4 @@ Scalability Docker Lambda Functions Container Orchestration Backend A/B Testing 
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Latency Optimization Load Balancing Innovation distinguishes between a leader and a follower.
 Great things never come from comfort zones. IoT Cache Invalidation Testing Serverless GraphQL Edge Computing
 Kubernetes Code Review Replica Set Automation Data Science Containerization Happiness is not something ready made. It comes from your own actions. Distributed Systems
+Quantum Computing Kafka Database Indexing Edge Computing JWT Deployment GraphQL Stay hungry, stay foolish. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Parallel Processing
