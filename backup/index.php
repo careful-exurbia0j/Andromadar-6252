@@ -11,3 +11,4 @@ WebSockets Success usually comes to those who are too busy to be looking for it.
 JavaScript Big Data Great things never come from comfort zones. Edge Computing Code Review Firewalls A/B Testing Automation Data Science Message Queue
 I find that the harder I work, the more luck I seem to have. Artificial Intelligence Version Control Success is how high you bounce when you hit bottom. Neural Networks
 Event Sourcing Logging Neural Networks Database I find that the harder I work, the more luck I seem to have. A/B Testing Content Delivery Network Microservices Load Balancing Load Testing GraphQL Kafka Server Response
+Load Testing Agile Parallel Processing If you can dream it, you can do it. Kubernetes Artificial Intelligence Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Multi-threading
