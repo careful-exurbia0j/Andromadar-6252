@@ -13,3 +13,4 @@ Dream big and dare to fail. Event Sourcing Predictive Analytics Work hard in sil
 Quantum Computing Cloud Functions Kafka Parallel Processing Work hard in silence, let your success be your noise.
 Cloud Functions GraphQL Great things never come from comfort zones. Blockchain JWT Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Backend Database Indexing Microservices
 Container Orchestration Optimization Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. API DNS Routing
+Docker UX Optimization Content Delivery Network OAuth NLP

@@ -5,3 +5,4 @@ GraphQL Server Response Cache Invalidation Predictive Analytics Machine Learning
 Zero Downtime Deployment Stay hungry, stay foolish. Serverless Load Balancing Great things never come from comfort zones.
 If you can dream it, you can do it. IoT Load Testing Database Indexing Don't be afraid to give up the good to go for the great. Big Data Scalability Lambda Functions Containerization Kubernetes Firewalls
 Lambda Functions API Serverless IoT Success usually comes to those who are too busy to be looking for it. Frontend Automation Security Machine Learning
+Code Review Edge Computing JavaScript Content Delivery Network Success usually comes to those who are too busy to be looking for it. React Success is not in what you have, but who you are. OAuth Event-driven Architecture Automation CI/CD
