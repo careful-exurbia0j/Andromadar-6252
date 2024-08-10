@@ -14,3 +14,4 @@ Cloud Lambda Functions Event Sourcing Edge Computing Machine Learning Containeri
 Don't be afraid to give up the good to go for the great. Latency Optimization Data Pipeline Message Queue DNS Routing Innovation distinguishes between a leader and a follower. OAuth Opportunities don't happen. You create them. UX Optimization Act as if what you do makes a difference. It does. Lambda Functions Neural Networks Containerization
 Scalability Docker Lambda Functions Container Orchestration Backend A/B Testing To be the best, you must be able to handle the worst. DNS Routing Happiness is not something ready made. It comes from your own actions. Kafka Success is not in what you have, but who you are.
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Latency Optimization Load Balancing Innovation distinguishes between a leader and a follower.
+Great things never come from comfort zones. IoT Cache Invalidation Testing Serverless GraphQL Edge Computing
