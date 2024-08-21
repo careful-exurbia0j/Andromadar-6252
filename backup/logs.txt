@@ -7,3 +7,4 @@ Database Indexing Backend Replica Set Opportunities don't happen. You create the
 Latency Optimization Microservices Agile Predictive Analytics Replica Set DNS Routing Container Orchestration Happiness is not something ready made. It comes from your own actions. Virtual Machines
 Big Data Artificial Intelligence Data Science Deployment I find that the harder I work, the more luck I seem to have. Database Indexing Cloud Functions Opportunities don't happen. You create them. Containerization Success is how high you bounce when you hit bottom.
 Load Testing UX Optimization Load Balancing API Machine Learning Serverless Container Orchestration Great things never come from comfort zones. JavaScript
+Agile IoT Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Testing
