@@ -14,3 +14,4 @@ DNS Routing Multi-threading Success is not in what you have, but who you are. Ev
 Serverless Event Sourcing Content Delivery Network Database Indexing If you can dream it, you can do it. API Gateway Sharding
 Machine Learning OAuth React Load Testing Dream big and dare to fail.
 CI/CD GraphQL Automation Latency Optimization Docker Database Parallel Processing Act as if what you do makes a difference. It does. Artificial Intelligence A/B Testing Scalability Agile
+Frontend Success is not in what you have, but who you are. Distributed Systems Container Orchestration Opportunities don't happen. You create them. Kafka Do what you love and the money will follow. Docker I find that the harder I work, the more luck I seem to have. RabbitMQ Replica Set Microservices DevOps If you can dream it, you can do it.

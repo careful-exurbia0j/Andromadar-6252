@@ -15,3 +15,4 @@ Agile DNS Routing Database Indexing Neural Networks If you can dream it, you can
 Server Response Latency Optimization Pull Request Serverless IoT API Dream big and dare to fail.
 Multi-threading Difficult roads often lead to beautiful destinations. Load Testing Work hard in silence, let your success be your noise. Frontend IoT DNS Routing The only way to do great work is to love what you do. Great things never come from comfort zones.
 Distributed Systems Optimization CI/CD Happiness is not something ready made. It comes from your own actions. Algorithm Cloud Functions Logging
+UX Optimization Success doesn’t just find you. You have to go out and get it. Big Data Load Balancing Database Indexing Simplicity is the ultimate sophistication. A/B Testing Cloud Functions Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Replica Set Testing Database Virtual Machines

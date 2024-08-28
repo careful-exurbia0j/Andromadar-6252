@@ -9,3 +9,4 @@ Agile React Blockchain Monitoring Load Testing I find that the harder I work, th
 Microservices Framework NLP The only way to do great work is to love what you do. Agile Opportunities don't happen. You create them. Neural Networks Sharding Pull Request Work hard in silence, let your success be your noise.
 Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. The only way to do great work is to love what you do. Lambda Functions Frontend CI/CD Blockchain
 Event Sourcing Replica Set Success is how high you bounce when you hit bottom. RabbitMQ Data Pipeline
+Testing DNS Routing Work hard in silence, let your success be your noise. Database Cloud UX Optimization Backend Latency Optimization
