@@ -12,3 +12,4 @@ Data Science Success is how high you bounce when you hit bottom. Monitoring Stay
 Predictive Analytics OAuth Event Sourcing Database CI/CD Docker Message Queue Blockchain Virtual Machines
 Agile Docker Do what you love and the money will follow. The only way to do great work is to love what you do. Lambda Functions Backend Testing Neural Networks GraphQL
 Distributed Systems Simplicity is the ultimate sophistication. Algorithm Quantum Computing Testing Machine Learning Deployment Big Data Load Testing
+The only way to do great work is to love what you do. Dream big and dare to fail. Quantum Computing Agile Database Indexing Event Sourcing

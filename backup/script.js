@@ -16,3 +16,4 @@ Testing Performance Load Testing Load Balancing Agile Lambda Functions JavaScrip
 Automation Replica Set Neural Networks Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
 Serverless Security Framework DevOps Content Delivery Network Dream big and dare to fail. Load Balancing UX Optimization Automation API Message Queue Work hard in silence, let your success be your noise.
 Zero Downtime Deployment Kafka Edge Computing Performance Cache Invalidation The only way to do great work is to love what you do. Docker Server Response Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Predictive Analytics
+Version Control Load Testing Difficult roads often lead to beautiful destinations. GraphQL Innovation distinguishes between a leader and a follower. Cloud Automation The only way to do great work is to love what you do. DevOps
