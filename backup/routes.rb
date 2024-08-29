@@ -14,3 +14,4 @@ Act as if what you do makes a difference. It does. DevOps Scalability Agile Auto
 Agile DNS Routing Database Indexing Neural Networks If you can dream it, you can do it.
 Server Response Latency Optimization Pull Request Serverless IoT API Dream big and dare to fail.
 Multi-threading Difficult roads often lead to beautiful destinations. Load Testing Work hard in silence, let your success be your noise. Frontend IoT DNS Routing The only way to do great work is to love what you do. Great things never come from comfort zones.
+Distributed Systems Optimization CI/CD Happiness is not something ready made. It comes from your own actions. Algorithm Cloud Functions Logging

@@ -13,3 +13,4 @@ Predictive Analytics OAuth Event Sourcing Database CI/CD Docker Message Queue Bl
 Agile Docker Do what you love and the money will follow. The only way to do great work is to love what you do. Lambda Functions Backend Testing Neural Networks GraphQL
 Distributed Systems Simplicity is the ultimate sophistication. Algorithm Quantum Computing Testing Machine Learning Deployment Big Data Load Testing
 The only way to do great work is to love what you do. Dream big and dare to fail. Quantum Computing Agile Database Indexing Event Sourcing
+I find that the harder I work, the more luck I seem to have. Agile Frontend Containerization Testing If you can dream it, you can do it. Firewalls React
