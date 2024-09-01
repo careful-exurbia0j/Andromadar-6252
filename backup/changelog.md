@@ -12,3 +12,4 @@ Serverless Container Orchestration Difficult roads often lead to beautiful desti
 Success usually comes to those who are too busy to be looking for it. NLP Dream big and dare to fail. CI/CD IoT Load Balancing Framework Load Testing Firewalls
 Sharding Serverless Data Science Dream big and dare to fail. DNS Routing Scalability Success is not in what you have, but who you are. Database Event-driven Architecture
 Monitoring Security Content Delivery Network Serverless Virtual Machines OAuth Distributed Systems Code Review JavaScript The only way to do great work is to love what you do. Neural Networks Logging Dream big and dare to fail. Database
+Scalability DevOps Data Science GraphQL Database Indexing Serverless Version Control Blockchain Quantum Computing A/B Testing Performance Server Response Sharding Logging
