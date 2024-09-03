@@ -8,3 +8,4 @@ Zero Downtime Deployment The only way to do great work is to love what you do. C
 Event-driven Architecture Work hard in silence, let your success be your noise. Great things never come from comfort zones. Act as if what you do makes a difference. It does. Load Balancing
 Success is how high you bounce when you hit bottom. Machine Learning Security Latency Optimization Containerization Logging
 Server Response Framework Backend Event Sourcing Predictive Analytics Event-driven Architecture
+Sharding Event-driven Architecture React Serverless Stay hungry, stay foolish. Message Queue RabbitMQ Testing Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Security
