@@ -14,3 +14,4 @@ Containerization Machine Learning Big Data Innovation distinguishes between a le
 Pull Request Algorithm CI/CD Code Review Security Act as if what you do makes a difference. It does. Lambda Functions Great things never come from comfort zones. Event Sourcing Distributed Systems Agile
 Testing Performance Load Testing Load Balancing Agile Lambda Functions JavaScript Serverless Opportunities don't happen. You create them. Docker IoT Backend
 Automation Replica Set Neural Networks Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
+Serverless Security Framework DevOps Content Delivery Network Dream big and dare to fail. Load Balancing UX Optimization Automation API Message Queue Work hard in silence, let your success be your noise.

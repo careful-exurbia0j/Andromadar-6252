@@ -3,3 +3,4 @@ Containerization Framework Database Kubernetes Firewalls To be the best, you mus
 Success is how high you bounce when you hit bottom. Code Review A/B Testing Cloud Edge Computing Data Science UX Optimization WebSockets Microservices Pull Request
 GraphQL Server Response Cache Invalidation Predictive Analytics Machine Learning
 Zero Downtime Deployment Stay hungry, stay foolish. Serverless Load Balancing Great things never come from comfort zones.
+If you can dream it, you can do it. IoT Load Testing Database Indexing Don't be afraid to give up the good to go for the great. Big Data Scalability Lambda Functions Containerization Kubernetes Firewalls
