@@ -15,3 +15,4 @@ Data Pipeline Microservices Distributed Systems Big Data Artificial Intelligence
 UX Optimization DevOps Framework Latency Optimization Server Response
 Simplicity is the ultimate sophistication. Great things never come from comfort zones. Container Orchestration OAuth Success is not in what you have, but who you are. API
 Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Multi-threading Message Queue Container Orchestration Distributed Systems Opportunities don't happen. You create them.
+Load Testing IoT Monitoring Blockchain Great things never come from comfort zones. Message Queue Work hard in silence, let your success be your noise. Cache Invalidation GraphQL Big Data Agile Pull Request
