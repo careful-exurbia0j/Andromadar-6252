@@ -8,3 +8,4 @@ Message Queue Virtual Machines Sharding Content Delivery Network WebSockets Secu
 WebSockets Code Review IoT API Pull Request Do what you love and the money will follow. Quantum Computing JWT Artificial Intelligence Backend
 React Innovation distinguishes between a leader and a follower. JWT Stay hungry, stay foolish. Backend Cloud Container Orchestration Testing IoT Difficult roads often lead to beautiful destinations. Latency Optimization Pull Request
 Latency Optimization Difficult roads often lead to beautiful destinations. Machine Learning Success is not in what you have, but who you are. API UX Optimization Big Data Innovation distinguishes between a leader and a follower. IoT API Gateway Framework CI/CD
+DevOps Framework API Gateway Distributed Systems Algorithm Virtual Machines Artificial Intelligence Event-driven Architecture Zero Downtime Deployment Do what you love and the money will follow. Agile CI/CD Containerization Edge Computing Load Testing
