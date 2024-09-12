@@ -8,3 +8,4 @@ Monitoring Data Pipeline Containerization Great things never come from comfort z
 OAuth JWT Container Orchestration I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. If you can dream it, you can do it. Frontend Cloud
 Latency Optimization Automation UX Optimization Container Orchestration Distributed Systems Pull Request Monitoring Microservices OAuth
 Do what you love and the money will follow. Quantum Computing Microservices Algorithm Serverless
+Sharding Distributed Systems Cloud The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Docker Cache Invalidation Kubernetes
