@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Cloud Innovation di
 Message Queue Virtual Machines Sharding Content Delivery Network WebSockets Security API Cache Invalidation Logging Testing Cloud Functions Database Containerization
 WebSockets Code Review IoT API Pull Request Do what you love and the money will follow. Quantum Computing JWT Artificial Intelligence Backend
 React Innovation distinguishes between a leader and a follower. JWT Stay hungry, stay foolish. Backend Cloud Container Orchestration Testing IoT Difficult roads often lead to beautiful destinations. Latency Optimization Pull Request
+Latency Optimization Difficult roads often lead to beautiful destinations. Machine Learning Success is not in what you have, but who you are. API UX Optimization Big Data Innovation distinguishes between a leader and a follower. IoT API Gateway Framework CI/CD
