@@ -9,3 +9,4 @@ Blockchain Multi-threading Virtual Machines Backend Quantum Computing Docker Tes
 Algorithm Performance Message Queue Server Response Difficult roads often lead to beautiful destinations. Content Delivery Network Optimization Latency Optimization Frontend Act as if what you do makes a difference. It does.
 Simplicity is the ultimate sophistication. NLP Data Pipeline Monitoring Optimization WebSockets
 Monitoring Database Load Balancing Event-driven Architecture Content Delivery Network Replica Set Happiness is not something ready made. It comes from your own actions.
+Python React Docker Cloud Functions Framework JWT Edge Computing Sharding Database Code Review Multi-threading Automation
