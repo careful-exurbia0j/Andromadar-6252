@@ -11,3 +11,4 @@ Work hard in silence, let your success be your noise. A/B Testing Sharding Succe
 Parallel Processing Edge Computing Neural Networks Docker Cloud Machine Learning Backend Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Server Response
 Container Orchestration Data Science Success is how high you bounce when you hit bottom. Blockchain Server Response
 Cloud Lambda Functions Event Sourcing Edge Computing Machine Learning Containerization
+Don't be afraid to give up the good to go for the great. Latency Optimization Data Pipeline Message Queue DNS Routing Innovation distinguishes between a leader and a follower. OAuth Opportunities don't happen. You create them. UX Optimization Act as if what you do makes a difference. It does. Lambda Functions Neural Networks Containerization
