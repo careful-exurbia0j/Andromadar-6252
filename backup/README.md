@@ -8,3 +8,4 @@ Event Sourcing Success is how high you bounce when you hit bottom. Machine Learn
 Blockchain Frontend Serverless Great things never come from comfort zones. Firewalls
 Event-driven Architecture Sharding Predictive Analytics Message Queue Lambda Functions UX Optimization
 Server Response Deployment Sharding NLP Database OAuth DevOps The only way to do great work is to love what you do. Multi-threading DNS Routing Agile
+Python Data Science Virtual Machines RabbitMQ Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Great things never come from comfort zones. NLP Optimization Multi-threading Microservices Zero Downtime Deployment Framework
