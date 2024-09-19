@@ -10,3 +10,4 @@ Zero Downtime Deployment Sharding Parallel Processing Framework IoT Database Ind
 Work hard in silence, let your success be your noise. A/B Testing Sharding Success is not in what you have, but who you are. Code Review Multi-threading Great things never come from comfort zones. Testing JavaScript Event Sourcing Distributed Systems Docker
 Parallel Processing Edge Computing Neural Networks Docker Cloud Machine Learning Backend Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Server Response
 Container Orchestration Data Science Success is how high you bounce when you hit bottom. Blockchain Server Response
+Cloud Lambda Functions Event Sourcing Edge Computing Machine Learning Containerization
