@@ -10,3 +10,4 @@ Cache Invalidation Virtual Machines Code Review Microservices If you can dream i
 Happiness is not something ready made. It comes from your own actions. Logging Cloud Containerization Load Balancing Algorithm Success usually comes to those who are too busy to be looking for it. Pull Request
 Serverless Container Orchestration Difficult roads often lead to beautiful destinations. Automation The only way to do great work is to love what you do. Framework Distributed Systems Microservices Backend UX Optimization IoT I find that the harder I work, the more luck I seem to have. Neural Networks
 Success usually comes to those who are too busy to be looking for it. NLP Dream big and dare to fail. CI/CD IoT Load Balancing Framework Load Testing Firewalls
+Sharding Serverless Data Science Dream big and dare to fail. DNS Routing Scalability Success is not in what you have, but who you are. Database Event-driven Architecture
