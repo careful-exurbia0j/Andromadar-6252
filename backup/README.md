@@ -6,3 +6,4 @@ Multi-threading Do what you love and the money will follow. Containerization Pre
 A/B Testing Virtual Machines Stay hungry, stay foolish. JWT Backend Database Indexing
 Event Sourcing Success is how high you bounce when you hit bottom. Machine Learning Dream big and dare to fail. DNS Routing Serverless Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Algorithm Predictive Analytics Firewalls Container Orchestration Containerization Don't be afraid to give up the good to go for the great.
 Blockchain Frontend Serverless Great things never come from comfort zones. Firewalls
+Event-driven Architecture Sharding Predictive Analytics Message Queue Lambda Functions UX Optimization
