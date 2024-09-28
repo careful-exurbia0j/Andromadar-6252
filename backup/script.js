@@ -12,3 +12,4 @@ WebSockets Simplicity is the ultimate sophistication. CI/CD Framework Content De
 Backend Automation Deployment JWT Big Data Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Microservices DevOps Cache Invalidation Parallel Processing Great things never come from comfort zones. Dream big and dare to fail.
 Containerization Machine Learning Big Data Innovation distinguishes between a leader and a follower. API WebSockets Replica Set Automation Server Response Difficult roads often lead to beautiful destinations.
 Pull Request Algorithm CI/CD Code Review Security Act as if what you do makes a difference. It does. Lambda Functions Great things never come from comfort zones. Event Sourcing Distributed Systems Agile
+Testing Performance Load Testing Load Balancing Agile Lambda Functions JavaScript Serverless Opportunities don't happen. You create them. Docker IoT Backend
