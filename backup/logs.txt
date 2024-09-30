@@ -3,3 +3,4 @@ WebSockets RabbitMQ Performance Automation Event-driven Architecture Optimizatio
 Kubernetes Success is not in what you have, but who you are. Event Sourcing If you can dream it, you can do it. Sharding Framework Pull Request Neural Networks Multi-threading Content Delivery Network React
 Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Code Review Success doesn’t just find you. You have to go out and get it. Serverless Artificial Intelligence Frontend A/B Testing Sharding Container Orchestration
 Cloud Functions Testing Python JavaScript Performance Cloud Kafka
+Database Indexing Backend Replica Set Opportunities don't happen. You create them. If you can dream it, you can do it.
