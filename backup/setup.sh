@@ -7,3 +7,4 @@ NLP DNS Routing Docker API Machine Learning Container Orchestration Opportunitie
 Agile Load Testing Artificial Intelligence Cloud Functions IoT Database Content Delivery Network Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise.
 Difficult roads often lead to beautiful destinations. Framework IoT Machine Learning Cache Invalidation Load Testing Success is how high you bounce when you hit bottom. Security API Great things never come from comfort zones. Message Queue Quantum Computing Version Control Sharding
 Pull Request Monitoring Act as if what you do makes a difference. It does. Virtual Machines Artificial Intelligence NLP Security If you can dream it, you can do it.
+Firewalls Cloud Success usually comes to those who are too busy to be looking for it. Docker Performance Scalability

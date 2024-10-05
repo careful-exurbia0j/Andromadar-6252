@@ -11,3 +11,4 @@ Difficult roads often lead to beautiful destinations. DNS Routing Version Contro
 Algorithm React JavaScript Message Queue Virtual Machines Performance Pull Request Optimization Data Science Opportunities don't happen. You create them. Lambda Functions DNS Routing Testing NLP
 CI/CD Backend DevOps Big Data Container Orchestration
 Version Control Message Queue Logging Container Orchestration Predictive Analytics Agile API Kubernetes
+Data Pipeline Microservices Distributed Systems Big Data Artificial Intelligence To be the best, you must be able to handle the worst. Optimization Code Review Version Control NLP API Gateway
