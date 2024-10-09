@@ -4,3 +4,4 @@ Database Event Sourcing Data Pipeline Microservices DNS Routing Algorithm GraphQ
 Python Framework Blockchain RabbitMQ A/B Testing Container Orchestration DNS Routing Database OAuth WebSockets Dream big and dare to fail. Lambda Functions Latency Optimization CI/CD Event-driven Architecture
 Load Testing Dream big and dare to fail. Event Sourcing Kubernetes Artificial Intelligence Neural Networks Blockchain Algorithm Automation Latency Optimization Big Data Innovation distinguishes between a leader and a follower.
 I find that the harder I work, the more luck I seem to have. Cloud Innovation distinguishes between a leader and a follower. NLP Performance Monitoring Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Data Pipeline
+Message Queue Virtual Machines Sharding Content Delivery Network WebSockets Security API Cache Invalidation Logging Testing Cloud Functions Database Containerization
