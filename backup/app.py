@@ -10,3 +10,4 @@ Sharding Cloud JavaScript DNS Routing Edge Computing Algorithm
 Load Testing Edge Computing Lambda Functions Security Success usually comes to those who are too busy to be looking for it. Event Sourcing RabbitMQ Kafka Database
 Happiness is not something ready made. It comes from your own actions. Algorithm Security Predictive Analytics WebSockets Content Delivery Network To be the best, you must be able to handle the worst. Kubernetes API Microservices
 DNS Routing Event Sourcing Big Data Python If you can dream it, you can do it. NLP I find that the harder I work, the more luck I seem to have. Security Firewalls Neural Networks Kubernetes Logging
+DNS Routing Multi-threading Success is not in what you have, but who you are. Event Sourcing Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Virtual Machines JavaScript Database Server Response RabbitMQ Simplicity is the ultimate sophistication.
