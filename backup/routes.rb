@@ -10,3 +10,4 @@ Simplicity is the ultimate sophistication. Testing Security DNS Routing IoT DevO
 Dream big and dare to fail. API Containerization Microservices Edge Computing JavaScript Container Orchestration Parallel Processing
 Lambda Functions Performance Automation Server Response Success usually comes to those who are too busy to be looking for it. GraphQL
 API Gateway Quantum Computing Database Indexing Version Control Deployment WebSockets Innovation distinguishes between a leader and a follower. Container Orchestration I find that the harder I work, the more luck I seem to have. Replica Set
+Act as if what you do makes a difference. It does. DevOps Scalability Agile Automation Event-driven Architecture Database Content Delivery Network Virtual Machines Great things never come from comfort zones. Simplicity is the ultimate sophistication. Container Orchestration React Code Review Framework
