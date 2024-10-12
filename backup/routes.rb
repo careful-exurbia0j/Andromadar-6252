@@ -8,3 +8,4 @@ Lambda Functions Virtual Machines Happiness is not something ready made. It come
 Server Response Load Balancing Sharding UX Optimization Load Testing Neural Networks Security Machine Learning
 Simplicity is the ultimate sophistication. Testing Security DNS Routing IoT DevOps Logging Dream big and dare to fail. Server Response OAuth Work hard in silence, let your success be your noise. JWT
 Dream big and dare to fail. API Containerization Microservices Edge Computing JavaScript Container Orchestration Parallel Processing
+Lambda Functions Performance Automation Server Response Success usually comes to those who are too busy to be looking for it. GraphQL
