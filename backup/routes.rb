@@ -9,3 +9,4 @@ Server Response Load Balancing Sharding UX Optimization Load Testing Neural Netw
 Simplicity is the ultimate sophistication. Testing Security DNS Routing IoT DevOps Logging Dream big and dare to fail. Server Response OAuth Work hard in silence, let your success be your noise. JWT
 Dream big and dare to fail. API Containerization Microservices Edge Computing JavaScript Container Orchestration Parallel Processing
 Lambda Functions Performance Automation Server Response Success usually comes to those who are too busy to be looking for it. GraphQL
+API Gateway Quantum Computing Database Indexing Version Control Deployment WebSockets Innovation distinguishes between a leader and a follower. Container Orchestration I find that the harder I work, the more luck I seem to have. Replica Set
