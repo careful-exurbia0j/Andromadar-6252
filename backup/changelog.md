@@ -7,3 +7,4 @@ Machine Learning Agile Success doesn’t just find you. You have to go out and get
 Sharding DevOps IoT Event Sourcing Server Response Virtual Machines Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations.
 Artificial Intelligence Automation Container Orchestration Replica Set Frontend Security API Gateway Don't be afraid to give up the good to go for the great. Pull Request Monitoring Distributed Systems
 Cache Invalidation Virtual Machines Code Review Microservices If you can dream it, you can do it. Container Orchestration Database Quantum Computing Performance Cloud Backend Difficult roads often lead to beautiful destinations. Logging
+Happiness is not something ready made. It comes from your own actions. Logging Cloud Containerization Load Balancing Algorithm Success usually comes to those who are too busy to be looking for it. Pull Request

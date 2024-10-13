@@ -5,3 +5,4 @@ Logging Code Review Version Control Backend Machine Learning Work hard in silenc
 RabbitMQ Great things never come from comfort zones. Database Frontend Multi-threading Server Response Content Delivery Network Version Control Success doesn’t just find you. You have to go out and get it. OAuth API Gateway
 Cloud Database Virtual Machines Backend Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are.
 Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. JWT Blockchain NLP
+Version Control Microservices Success usually comes to those who are too busy to be looking for it. Distributed Systems Happiness is not something ready made. It comes from your own actions. Pull Request Lambda Functions DNS Routing API Gateway Code Review Success doesn’t just find you. You have to go out and get it. Edge Computing Data Pipeline Kafka
