@@ -10,3 +10,4 @@ Frontend Docker I find that the harder I work, the more luck I seem to have. Blo
 Optimization Don't be afraid to give up the good to go for the great. Serverless Opportunities don't happen. You create them. Backend Edge Computing
 WebSockets Simplicity is the ultimate sophistication. CI/CD Framework Content Delivery Network DNS Routing Opportunities don't happen. You create them. Multi-threading A/B Testing The only way to do great work is to love what you do. Testing Python Deployment Frontend Automation
 Backend Automation Deployment JWT Big Data Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Microservices DevOps Cache Invalidation Parallel Processing Great things never come from comfort zones. Dream big and dare to fail.
+Containerization Machine Learning Big Data Innovation distinguishes between a leader and a follower. API WebSockets Replica Set Automation Server Response Difficult roads often lead to beautiful destinations.
