@@ -10,3 +10,4 @@ Quantum Computing Virtual Machines Happiness is not something ready made. It com
 Difficult roads often lead to beautiful destinations. DNS Routing Version Control Replica Set Containerization Innovation distinguishes between a leader and a follower. Database Load Balancing Simplicity is the ultimate sophistication. Serverless The only way to do great work is to love what you do. Performance Python Blockchain Cloud Functions
 Algorithm React JavaScript Message Queue Virtual Machines Performance Pull Request Optimization Data Science Opportunities don't happen. You create them. Lambda Functions DNS Routing Testing NLP
 CI/CD Backend DevOps Big Data Container Orchestration
+Version Control Message Queue Logging Container Orchestration Predictive Analytics Agile API Kubernetes

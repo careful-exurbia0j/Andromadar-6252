@@ -7,3 +7,4 @@ Success usually comes to those who are too busy to be looking for it. Zero Downt
 Lambda Functions Virtual Machines Happiness is not something ready made. It comes from your own actions. Neural Networks Predictive Analytics WebSockets Frontend Multi-threading Event-driven Architecture Optimization Don't be afraid to give up the good to go for the great. Kafka Work hard in silence, let your success be your noise.
 Server Response Load Balancing Sharding UX Optimization Load Testing Neural Networks Security Machine Learning
 Simplicity is the ultimate sophistication. Testing Security DNS Routing IoT DevOps Logging Dream big and dare to fail. Server Response OAuth Work hard in silence, let your success be your noise. JWT
+Dream big and dare to fail. API Containerization Microservices Edge Computing JavaScript Container Orchestration Parallel Processing
