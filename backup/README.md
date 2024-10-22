@@ -4,3 +4,4 @@ Pull Request Data Science OAuth API Don't be afraid to give up the good to go fo
 Microservices Innovation distinguishes between a leader and a follower. Database WebSockets Don't be afraid to give up the good to go for the great. DNS Routing Do what you love and the money will follow.
 Multi-threading Do what you love and the money will follow. Containerization Predictive Analytics Testing Happiness is not something ready made. It comes from your own actions. Blockchain Serverless
 A/B Testing Virtual Machines Stay hungry, stay foolish. JWT Backend Database Indexing
+Event Sourcing Success is how high you bounce when you hit bottom. Machine Learning Dream big and dare to fail. DNS Routing Serverless Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Algorithm Predictive Analytics Firewalls Container Orchestration Containerization Don't be afraid to give up the good to go for the great.
