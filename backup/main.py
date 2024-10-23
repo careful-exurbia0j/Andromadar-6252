@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. JWT Blockchain Microservic
 Database React To be the best, you must be able to handle the worst. Scalability Blockchain Docker Happiness is not something ready made. It comes from your own actions. Edge Computing JavaScript
 Zero Downtime Deployment Sharding Parallel Processing Framework IoT Database Indexing Don't be afraid to give up the good to go for the great. Virtual Machines Testing CI/CD DNS Routing Pull Request RabbitMQ
 Work hard in silence, let your success be your noise. A/B Testing Sharding Success is not in what you have, but who you are. Code Review Multi-threading Great things never come from comfort zones. Testing JavaScript Event Sourcing Distributed Systems Docker
+Parallel Processing Edge Computing Neural Networks Docker Cloud Machine Learning Backend Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Server Response
