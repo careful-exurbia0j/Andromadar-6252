@@ -3,3 +3,4 @@ GraphQL OAuth JWT Event-driven Architecture Frontend Event Sourcing Testing DNS 
 Pull Request Data Science OAuth API Don't be afraid to give up the good to go for the great. Cloud If you can dream it, you can do it. Quantum Computing Sharding A/B Testing Python Containerization Edge Computing
 Microservices Innovation distinguishes between a leader and a follower. Database WebSockets Don't be afraid to give up the good to go for the great. DNS Routing Do what you love and the money will follow.
 Multi-threading Do what you love and the money will follow. Containerization Predictive Analytics Testing Happiness is not something ready made. It comes from your own actions. Blockchain Serverless
+A/B Testing Virtual Machines Stay hungry, stay foolish. JWT Backend Database Indexing
