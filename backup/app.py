@@ -7,3 +7,4 @@ Logging React Monitoring Predictive Analytics Zero Downtime Deployment
 Success doesn’t just find you. You have to go out and get it. NLP Don't be afraid to give up the good to go for the great. DNS Routing Zero Downtime Deployment Distributed Systems JWT Python
 Event-driven Architecture Backend Data Science Parallel Processing Algorithm Load Balancing
 Sharding Cloud JavaScript DNS Routing Edge Computing Algorithm
+Load Testing Edge Computing Lambda Functions Security Success usually comes to those who are too busy to be looking for it. Event Sourcing RabbitMQ Kafka Database
