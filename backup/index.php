@@ -2,3 +2,4 @@ Testing Agile Happiness is not something ready made. It comes from your own acti
 Blockchain Performance Predictive Analytics Data Pipeline Deployment Zero Downtime Deployment Virtual Machines OAuth Edge Computing
 Database Indexing Scalability Machine Learning Backend Success doesn’t just find you. You have to go out and get it. Latency Optimization
 Logging Code Review Version Control Backend Machine Learning Work hard in silence, let your success be your noise. Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. DNS Routing Stay hungry, stay foolish. UX Optimization Don't be afraid to give up the good to go for the great. Firewalls Testing Python
+RabbitMQ Great things never come from comfort zones. Database Frontend Multi-threading Server Response Content Delivery Network Version Control Success doesn’t just find you. You have to go out and get it. OAuth API Gateway

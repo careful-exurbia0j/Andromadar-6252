@@ -4,3 +4,4 @@ JavaScript Event Sourcing Artificial Intelligence Code Review Content Delivery N
 NLP Performance Cloud Optimization Big Data UX Optimization Replica Set Event Sourcing Lambda Functions Predictive Analytics WebSockets Success usually comes to those who are too busy to be looking for it.
 Lambda Functions React Big Data Scalability Backend Docker WebSockets Firewalls Act as if what you do makes a difference. It does. Quantum Computing UX Optimization Difficult roads often lead to beautiful destinations. Version Control
 Data Pipeline Zero Downtime Deployment Algorithm To be the best, you must be able to handle the worst. Frontend Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Testing Success is how high you bounce when you hit bottom. Firewalls Sharding Load Balancing
+Database Indexing UX Optimization If you can dream it, you can do it. React Kubernetes OAuth Load Testing A/B Testing
