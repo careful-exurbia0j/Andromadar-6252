@@ -7,3 +7,4 @@ Act as if what you do makes a difference. It does. Do what you love and the mone
 To be the best, you must be able to handle the worst. JWT Blockchain Microservices Serverless Success is not in what you have, but who you are. Data Pipeline React Deployment Logging
 Database React To be the best, you must be able to handle the worst. Scalability Blockchain Docker Happiness is not something ready made. It comes from your own actions. Edge Computing JavaScript
 Zero Downtime Deployment Sharding Parallel Processing Framework IoT Database Indexing Don't be afraid to give up the good to go for the great. Virtual Machines Testing CI/CD DNS Routing Pull Request RabbitMQ
+Work hard in silence, let your success be your noise. A/B Testing Sharding Success is not in what you have, but who you are. Code Review Multi-threading Great things never come from comfort zones. Testing JavaScript Event Sourcing Distributed Systems Docker
