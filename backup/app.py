@@ -6,3 +6,4 @@ Agile Container Orchestration JavaScript Python Monitoring Work hard in silence,
 Logging React Monitoring Predictive Analytics Zero Downtime Deployment
 Success doesn’t just find you. You have to go out and get it. NLP Don't be afraid to give up the good to go for the great. DNS Routing Zero Downtime Deployment Distributed Systems JWT Python
 Event-driven Architecture Backend Data Science Parallel Processing Algorithm Load Balancing
+Sharding Cloud JavaScript DNS Routing Edge Computing Algorithm
