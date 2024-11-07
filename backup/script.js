@@ -8,3 +8,4 @@ Multi-threading JavaScript Framework Success is how high you bounce when you hit
 Data Science Load Testing IoT Database Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
 Frontend Docker I find that the harder I work, the more luck I seem to have. Blockchain Python Don't be afraid to give up the good to go for the great. Cloud Functions Container Orchestration Latency Optimization API Containerization Success is how high you bounce when you hit bottom. GraphQL
 Optimization Don't be afraid to give up the good to go for the great. Serverless Opportunities don't happen. You create them. Backend Edge Computing
+WebSockets Simplicity is the ultimate sophistication. CI/CD Framework Content Delivery Network DNS Routing Opportunities don't happen. You create them. Multi-threading A/B Testing The only way to do great work is to love what you do. Testing Python Deployment Frontend Automation
