@@ -4,3 +4,4 @@ Do what you love and the money will follow. Database NLP Artificial Intelligence
 Containerization Deployment Lambda Functions Kubernetes Multi-threading Database Indexing Machine Learning DevOps Framework Logging API
 Difficult roads often lead to beautiful destinations. Distributed Systems Container Orchestration Serverless Load Balancing To be the best, you must be able to handle the worst. Virtual Machines IoT DevOps Testing DNS Routing Cache Invalidation Predictive Analytics Edge Computing Frontend
 Machine Learning Agile Success doesn’t just find you. You have to go out and get it. Edge Computing Predictive Analytics Blockchain Cloud Functions Multi-threading Data Pipeline Act as if what you do makes a difference. It does. Great things never come from comfort zones. Load Testing Database
+Sharding DevOps IoT Event Sourcing Server Response Virtual Machines Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations.
