@@ -7,3 +7,4 @@ DNS Routing Dream big and dare to fail. Opportunities don't happen. You create t
 Multi-threading JavaScript Framework Success is how high you bounce when you hit bottom. Firewalls React Innovation distinguishes between a leader and a follower. Sharding Container Orchestration Logging Don't be afraid to give up the good to go for the great.
 Data Science Load Testing IoT Database Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
 Frontend Docker I find that the harder I work, the more luck I seem to have. Blockchain Python Don't be afraid to give up the good to go for the great. Cloud Functions Container Orchestration Latency Optimization API Containerization Success is how high you bounce when you hit bottom. GraphQL
+Optimization Don't be afraid to give up the good to go for the great. Serverless Opportunities don't happen. You create them. Backend Edge Computing
