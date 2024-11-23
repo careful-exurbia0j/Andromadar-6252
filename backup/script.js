@@ -5,3 +5,4 @@ JavaScript Quantum Computing A/B Testing Parallel Processing Stay hungry, stay f
 NLP Cache Invalidation Virtual Machines Performance Stay hungry, stay foolish. API The only way to do great work is to love what you do. Testing Predictive Analytics Latency Optimization Agile Parallel Processing
 DNS Routing Dream big and dare to fail. Opportunities don't happen. You create them. Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Virtual Machines Pull Request API Edge Computing
 Multi-threading JavaScript Framework Success is how high you bounce when you hit bottom. Firewalls React Innovation distinguishes between a leader and a follower. Sharding Container Orchestration Logging Don't be afraid to give up the good to go for the great.
+Data Science Load Testing IoT Database Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations.
