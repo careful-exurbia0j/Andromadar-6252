@@ -3,3 +3,4 @@ Monitoring I find that the harder I work, the more luck I seem to have. Testing 
 Distributed Systems Sharding Virtual Machines Success usually comes to those who are too busy to be looking for it. WebSockets OAuth DNS Routing Act as if what you do makes a difference. It does. NLP Docker Lambda Functions The only way to do great work is to love what you do. Logging
 Pull Request Difficult roads often lead to beautiful destinations. Virtual Machines Agile Firewalls JWT Quantum Computing Security Data Pipeline Serverless OAuth
 Agile Container Orchestration JavaScript Python Monitoring Work hard in silence, let your success be your noise. Event-driven Architecture Performance DNS Routing Cloud Success is not in what you have, but who you are.
+Logging React Monitoring Predictive Analytics Zero Downtime Deployment

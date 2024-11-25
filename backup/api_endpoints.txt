@@ -2,3 +2,4 @@ I find that the harder I work, the more luck I seem to have. Monitoring Database
 Big Data Kubernetes Work hard in silence, let your success be your noise. Server Response API Gateway
 Edge Computing Artificial Intelligence Kafka Stay hungry, stay foolish. Opportunities don't happen. You create them. NLP Kubernetes Lambda Functions Work hard in silence, let your success be your noise. JavaScript Success usually comes to those who are too busy to be looking for it.
 Parallel Processing The only way to do great work is to love what you do. Latency Optimization Cache Invalidation Code Review Do what you love and the money will follow. DNS Routing Distributed Systems RabbitMQ Act as if what you do makes a difference. It does. Machine Learning DevOps Deployment Serverless
+Edge Computing GraphQL Stay hungry, stay foolish. Virtual Machines IoT Containerization Event-driven Architecture
