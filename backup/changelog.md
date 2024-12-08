@@ -2,3 +2,4 @@ IoT Agile Edge Computing Cache Invalidation JavaScript Content Delivery Network 
 Great things never come from comfort zones. API Gateway DevOps Load Testing Happiness is not something ready made. It comes from your own actions. Testing Success doesn’t just find you. You have to go out and get it. API
 Do what you love and the money will follow. Database NLP Artificial Intelligence Data Science Act as if what you do makes a difference. It does. Kubernetes React Quantum Computing Code Review Containerization
 Containerization Deployment Lambda Functions Kubernetes Multi-threading Database Indexing Machine Learning DevOps Framework Logging API
+Difficult roads often lead to beautiful destinations. Distributed Systems Container Orchestration Serverless Load Balancing To be the best, you must be able to handle the worst. Virtual Machines IoT DevOps Testing DNS Routing Cache Invalidation Predictive Analytics Edge Computing Frontend
