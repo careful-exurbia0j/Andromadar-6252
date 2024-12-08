@@ -2,3 +2,4 @@ RabbitMQ Success is how high you bounce when you hit bottom. Predictive Analytic
 The only way to do great work is to love what you do. Parallel Processing Docker Backend Zero Downtime Deployment Data Pipeline If you can dream it, you can do it. Machine Learning NLP Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. DNS Routing
 UX Optimization Big Data DevOps Work hard in silence, let your success be your noise. Lambda Functions
 Stay hungry, stay foolish. Latency Optimization Agile Version Control Big Data Event Sourcing NLP Load Balancing CI/CD Containerization Success is not in what you have, but who you are. Machine Learning Firewalls API Deployment
+Microservices Monitoring Virtual Machines Quantum Computing Python

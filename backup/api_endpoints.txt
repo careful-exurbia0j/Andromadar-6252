@@ -1,2 +1,3 @@
 I find that the harder I work, the more luck I seem to have. Monitoring Database Indexing The only way to do great work is to love what you do. Code Review Firewalls Happiness is not something ready made. It comes from your own actions.
 Big Data Kubernetes Work hard in silence, let your success be your noise. Server Response API Gateway
+Edge Computing Artificial Intelligence Kafka Stay hungry, stay foolish. Opportunities don't happen. You create them. NLP Kubernetes Lambda Functions Work hard in silence, let your success be your noise. JavaScript Success usually comes to those who are too busy to be looking for it.
