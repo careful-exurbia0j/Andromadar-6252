@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. Opportunities don't happen. You creat
 Machine Learning Replica Set Docker JavaScript Parallel Processing
 Logging DevOps Artificial Intelligence The only way to do great work is to love what you do. Sharding API Gateway
 A/B Testing Testing Database Indexing Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Cloud Functions Event Sourcing IoT Work hard in silence, let your success be your noise. CI/CD Success doesn’t just find you. You have to go out and get it. API
+Great things never come from comfort zones. Agile Message Queue Dream big and dare to fail. CI/CD Success doesn’t just find you. You have to go out and get it. GraphQL OAuth Act as if what you do makes a difference. It does. Distributed Systems Don't be afraid to give up the good to go for the great. DevOps Sharding
