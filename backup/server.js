@@ -1,3 +1,4 @@
 JavaScript Cloud Load Testing Testing Success is not in what you have, but who you are. Blockchain Lambda Functions Optimization DevOps Security Distributed Systems The only way to do great work is to love what you do. Agile Container Orchestration
 Quantum Computing Monitoring Event-driven Architecture Containerization Simplicity is the ultimate sophistication. Cache Invalidation IoT Database Indexing Framework Database
 Load Balancing Version Control Cache Invalidation UX Optimization Serverless Blockchain Quantum Computing Lambda Functions GraphQL Monitoring OAuth Kafka Framework
+Quantum Computing Parallel Processing Neural Networks I find that the harder I work, the more luck I seem to have. Server Response Load Testing Zero Downtime Deployment Virtual Machines Do what you love and the money will follow.
