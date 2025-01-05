@@ -2,3 +2,4 @@ Happiness is not something ready made. It comes from your own actions. RabbitMQ 
 Zero Downtime Deployment Quantum Computing DevOps CI/CD Data Pipeline Server Response Work hard in silence, let your success be your noise.
 Kubernetes Virtual Machines JavaScript RabbitMQ Framework Scalability DNS Routing Cloud Functions Optimization Opportunities don't happen. You create them. Performance
 JavaScript Quantum Computing A/B Testing Parallel Processing Stay hungry, stay foolish. Cloud Artificial Intelligence Message Queue Data Science Innovation distinguishes between a leader and a follower. Code Review Data Pipeline
+NLP Cache Invalidation Virtual Machines Performance Stay hungry, stay foolish. API The only way to do great work is to love what you do. Testing Predictive Analytics Latency Optimization Agile Parallel Processing
