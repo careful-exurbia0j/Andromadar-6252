@@ -1,0 +1,1 @@
+Stay hungry, stay foolish. Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Database Indexing Event Sourcing Data Pipeline Cloud Functions
