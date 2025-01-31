@@ -1,2 +1,3 @@
 DevOps React Blockchain Multi-threading Scalability Dream big and dare to fail. The only way to do great work is to love what you do. Sharding
 Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Sharding Logging Lambda Functions Data Pipeline RabbitMQ Success usually comes to those who are too busy to be looking for it. OAuth
+Machine Learning Replica Set Docker JavaScript Parallel Processing
